@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Yash Patel
 
-## 🌐 Data Scientist | 🤖 NLP & Deep Learning Practitioner | ☁️ Full Stack Data Engineer
+## 🌐 Data Scientist | 🤖 NLP & Deep Learning Practitioner | ☁️ Full Stack Machine Learning Engineer
 
 Welcome to my GitHub! I’m a data scientist and engineer with a robust skill set in machine learning, deep learning, and natural language processing (NLP). My projects focus on harnessing the power of data, cloud technology, and advanced models to build impactful, scalable applications.
 
